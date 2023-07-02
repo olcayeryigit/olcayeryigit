@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @olcayeryigit
-- 👀 I’m interested in software...
-- 🌱 I’m currently learning C#,Javascript...
-- 📫 olcayeryigit@hotmail.com
+Hi, I’m @olcayeryigit
+I’m interested in software.
+I’m currently learning C#,Javascript...
+olcayeryigit@hotmail.com
 
 <!---
 olcayeryigit/olcayeryigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
