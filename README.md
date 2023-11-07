@@ -1,6 +1,5 @@
 Hi, I’m @olcayeryigit
-I’m interested in software.
-I’m currently learning C#,Javascript...
+Full Stack Javascript...
 olcayeryigit@hotmail.com
 
 <!---
