@@ -1,5 +1,4 @@
-Hi, I’m @olcayeryigit
-Full Stack Javascript...
+
 olcayeryigit@hotmail.com
 
 <!---
