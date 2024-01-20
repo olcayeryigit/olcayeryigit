@@ -1,5 +1,5 @@
 
-olcayeryigit@hotmail.com
+Hi! I'm @olcayeryigit 
 
 <!---
 olcayeryigit/olcayeryigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
