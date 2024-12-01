@@ -1,4 +1,4 @@
-Hi, I'm [Your Name] 👋
+Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
 
 💻 Technologies & Skills
