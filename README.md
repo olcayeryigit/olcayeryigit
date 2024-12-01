@@ -20,7 +20,6 @@ New UI/UX design trends and more!
 Feel free to reach out if you'd like to know more about my projects and experience or collaborate!
 You can contact me via:
 
-Email: [your-email@example.com]
-LinkedIn: [Your LinkedIn Profile URL]
-Twitter: [Your Twitter Handle]
-Website/Portfolio: [Your Website URL]
+
+LinkedIn: https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
+Website/Portfolio: 
