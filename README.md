@@ -3,6 +3,9 @@
 Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
 
+
+![olcay-](https://github.com/user-attachments/assets/54146c66-2b3f-4385-afdc-f012a1fc8a61)
+
 💻 Technologies & Skills
 Frontend: React, Next.js, Tailwind CSS, Bootstrap, Sass
 Backend: Node.js, JavaScript, Java (Spring Boot)
