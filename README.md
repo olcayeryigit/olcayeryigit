@@ -1,10 +1,5 @@
 
-
-
-
-
-https://github.com/user-attachments/assets/00879de4-c142-4748-b33a-cf9df669b281
-
+![Uploading olcik.gif…]()
 
 Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
