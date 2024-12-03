@@ -1,5 +1,6 @@
 
 
+![z](https://github.com/user-attachments/assets/1fccba11-4f6b-4945-8309-12c1ee97affa)
 
 Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
