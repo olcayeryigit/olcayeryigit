@@ -1,5 +1,5 @@
 
-![Uploading olcik.gif…]()
+![olcik](https://github.com/user-attachments/assets/3ebc7dee-27e2-410e-8159-39471a9b424d)
 
 Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
