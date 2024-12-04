@@ -1,4 +1,4 @@
-![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
+![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=red) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
 
 # ![1](https://github.com/user-attachments/assets/b8866c72-e6fb-43f6-aed6-2fa27db7a93e)  
 
