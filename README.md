@@ -12,7 +12,6 @@ olcayeryigit
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=olcayeryigit&theme=radical)
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=green)
 ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-yellow)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=olcayeryigit)
 
 
 
