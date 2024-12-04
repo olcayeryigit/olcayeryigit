@@ -13,6 +13,7 @@ olcayeryigit
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=olcayeryigit&theme=radical)
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=green)
 ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-yellow)
+![Proje Tanıtımı](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 
