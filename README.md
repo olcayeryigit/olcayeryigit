@@ -2,9 +2,7 @@
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
-
 <br></br>
-
 ## 💻 Technologies & Skills
 #### Frontend: React, Next.js, Tailwind CSS, Bootstrap, Sass
 #### Backend: Node.js, JavaScript, Java (Spring Boot)
