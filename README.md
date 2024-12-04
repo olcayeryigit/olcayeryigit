@@ -1,7 +1,7 @@
 
 
 
-![hi](https://github.com/user-attachments/assets/7aaf2217-f587-4e81-b99e-1c14733d88de)
+![hi](https://github.com/user-attachments/assets/d715fcaf-f771-4eec-bfb6-e5d22401d011)
 
 
 # Hi, I'm Olcay. &nbsp; ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
