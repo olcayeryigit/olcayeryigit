@@ -16,15 +16,14 @@ I aim to continuously improve my skills in technology, applying best practices t
 <br></br>
 ## 🛠️ Projects & Experience
 I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native. 
-
+<br></br>
 ## 🌱 Currently Learning
 Java Spring Boot: Diving deeper into backend development.
 New UI/UX design trends and more! 
-
+<br></br>
 ## 📫 Contact
 Feel free to reach out if you'd like to know more about my projects and experience or collaborate! 
-
-
+<br></br>
 You can contact me via:
 LinkedIn: https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
 Website/Portfolio: 
