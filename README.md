@@ -2,7 +2,7 @@
 # Hi, I'm Olcay. &nbsp; ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=green) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-yellow)
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
-![Uploading olcay-eryigit-github.gif…]()
+![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a)
 
 
 [![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&theme=radical)
