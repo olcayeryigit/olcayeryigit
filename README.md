@@ -1,8 +1,8 @@
 
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/ad41dfc7-eeab-4f6a-be69-3db6f6dfb020)
 
-Hi, I'm Olcay.👋
-I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
+# Hi, I'm Olcay.👋
+## I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
 
 💻 Technologies & Skills
 Frontend: React, Next.js, Tailwind CSS, Bootstrap, Sass
