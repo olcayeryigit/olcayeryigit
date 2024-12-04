@@ -3,7 +3,7 @@
 # ![1](https://github.com/user-attachments/assets/b8866c72-e6fb-43f6-aed6-2fa27db7a93e)  
 
  
-## I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.
+### I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.
 
 <br></br>
 
@@ -19,12 +19,12 @@
 <br></br>
 
 ## ![3](https://github.com/user-attachments/assets/b88fa607-4e10-47f9-9efe-b6a7e6d10120)
-I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
+### I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
 <br></br>
 
 ## ![4](https://github.com/user-attachments/assets/c60b2a61-d881-4068-90b1-50001733ca05)
 
-I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native. 
+### I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native. 
 <br></br>
 
 ## ![5](https://github.com/user-attachments/assets/7e77592b-1c15-41af-8911-a718e89080db)
