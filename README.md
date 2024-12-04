@@ -7,7 +7,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 
 
 olcayeryigit
-![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=radical)
+![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=blush)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olcayeryigit&theme=dracula)
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=olcayeryigit&theme=radical)
 
