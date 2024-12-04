@@ -1,6 +1,6 @@
 
-![Mavi Minimalist Mezuniyet Tebrik Kartı](https://github.com/user-attachments/assets/0035b31a-3269-4425-a5eb-dc91c95e8c5e)
 
+![Mavi Minimalist Mezuniyet Tebrik Kartı](https://github.com/user-attachments/assets/ee86929d-ec87-4b39-9f00-49eeb3ed85d9)
 
 
 
