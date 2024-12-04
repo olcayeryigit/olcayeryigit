@@ -17,7 +17,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 #### Design Tools: Figma, Canva
 
 ## 🎯 Career Goals
-I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. <br/>
+I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. <br/><br/>
 
 ## 🛠️ Projects & Experience
 I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native. <br/>
