@@ -1,5 +1,6 @@
 
-![olcay-eryigit-developer](https://github.com/user-attachments/assets/a212ce6d-65fa-41f4-a461-20346d33e33c)
+
+![olcay-eryigit-developer](https://github.com/user-attachments/assets/e9c0b91d-2ca1-4466-97fb-f2ca4132bed5)
 
 Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
