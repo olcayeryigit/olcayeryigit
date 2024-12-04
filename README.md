@@ -9,6 +9,9 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 #### Databases: MongoDB, PostgreSQL
 #### Mobile Development: React Native
 #### Design Tools: Figma, Canva 
+![skills](https://github.com/user-attachments/assets/216665ae-783d-460f-b75f-3a9b6991ad15)
+
+
 <br></br>
 ## 🎯 Career Goals
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
