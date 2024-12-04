@@ -1,6 +1,8 @@
 
 ![olcay-eryigit-developer](https://github.com/user-attachments/assets/a212ce6d-65fa-41f4-a461-20346d33e33c)
 
+![Mavi Minimalist Mezuniyet Tebrik Kartı](https://github.com/user-attachments/assets/e3a6f0f2-203e-4ce8-872b-434ae96c6ada)
+
 Hi, I'm Olcay.👋
 I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications. My interest in technology drives me to constantly learn new tools and methods.
 
