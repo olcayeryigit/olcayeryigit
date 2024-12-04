@@ -1,10 +1,9 @@
 
 
-![Mavi Minimalist Mezuniyet Tebrik Kartı](https://github.com/user-attachments/assets/ee86929d-ec87-4b39-9f00-49eeb3ed85d9)
 
 
 
-# ![xx](https://github.com/user-attachments/assets/c1bbd279-69a6-4ae3-81d7-87039f04f534) Hi, I'm Olcay. &nbsp; ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
+# ![1](https://github.com/user-attachments/assets/bc088fd9-73a3-47c6-af5a-785be8f19f99) &nbsp; ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
