@@ -45,8 +45,8 @@ Website/Portfolio:
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=olcayeryigit&theme=gruvbox)
 
 
+![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya - Kopya - Kopya](https://github.com/user-attachments/assets/4990cc39-8c7d-4387-9d44-634b23188283)
 
 
-![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya - Kopya](https://github.com/user-attachments/assets/d660fa3c-24b0-43ba-a897-67a12230eedb)
 
 
