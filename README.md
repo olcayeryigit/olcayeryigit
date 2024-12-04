@@ -47,6 +47,6 @@ Website/Portfolio:
 
 
 
+![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya - Kopya](https://github.com/user-attachments/assets/d660fa3c-24b0-43ba-a897-67a12230eedb)
 
 
-![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya - Kopya](https://github.com/user-attachments/assets/14a6cf94-39cf-4f58-9cb7-b307d96cda4f)
