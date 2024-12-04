@@ -9,7 +9,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
 <br></br>
 
-## ![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya - Kopya](https://github.com/user-attachments/assets/2dee1551-62c2-4ecd-8aa4-e64821511fd6) Technologies & Skills
+## ![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya (2) - Kopya](https://github.com/user-attachments/assets/a0f36254-53e3-4498-a09f-d8eaf839f356) Technologies & Skills
 ![skills](https://github.com/user-attachments/assets/216665ae-783d-460f-b75f-3a9b6991ad15)
 #### Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML
 #### Backend: Node.js, JavaScript, Java (Spring Boot), Postman
