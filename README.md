@@ -3,7 +3,9 @@
 
 
 
-# ![1](https://github.com/user-attachments/assets/b8866c72-e6fb-43f6-aed6-2fa27db7a93e)  ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
+# ![1](https://github.com/user-attachments/assets/b8866c72-e6fb-43f6-aed6-2fa27db7a93e)  
+
+![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
