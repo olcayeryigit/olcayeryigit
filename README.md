@@ -10,8 +10,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 <br></br>
 
 ## ![1](https://github.com/user-attachments/assets/e2528f9e-46fd-4ea2-b838-e2a2a5328856) Technologies & Skills
-
-![1](https://github.com/user-attachments/assets/114a11c1-e349-44a5-ae09-57bac982bb8b)
+![1](https://github.com/user-attachments/assets/5563428a-20a4-446c-949e-3704be38a36a)
 
 #### Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML
 #### Backend: Node.js, JavaScript, Java (Spring Boot), Postman
