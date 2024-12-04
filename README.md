@@ -14,7 +14,8 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 #### Mobile Development: React Native
 #### Design Tools: Figma, Canva 
 
-![skills](https://github.com/user-attachments/assets/82c0ab47-5c3b-44a1-9ec1-5ecf44146745)
+
+![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)
 <br></br>
 
 ## ![3](https://github.com/user-attachments/assets/b88fa607-4e10-47f9-9efe-b6a7e6d10120)
