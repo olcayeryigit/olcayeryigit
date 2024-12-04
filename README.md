@@ -9,7 +9,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 
 
 
-💻 Technologies & Skills
+💻 Technologies & Skills <br/>
 Frontend: React, Next.js, Tailwind CSS, Bootstrap, Sass
 Backend: Node.js, JavaScript, Java (Spring Boot)
 Databases: MongoDB, PostgreSQL
