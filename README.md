@@ -9,9 +9,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
 <br></br>
 
-## ![2](https://github.com/user-attachments/assets/cd494145-04a9-4b86-8bf6-962c976dd562)
-
-
+## ![2](https://github.com/user-attachments/assets/bf8a29f4-777f-4d86-90c3-023258b1ef24)
 #### Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML
 #### Backend: Node.js, JavaScript, Java (Spring Boot), Postman
 #### Databases: MongoDB, PostgreSQL
