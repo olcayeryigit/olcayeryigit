@@ -9,8 +9,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
 <br></br>
 
-## ![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya (2) - Kopya](https://github.com/user-attachments/assets/a0f36254-53e3-4498-a09f-d8eaf839f356) Technologies & Skills
-![skills](https://github.com/user-attachments/assets/216665ae-783d-460f-b75f-3a9b6991ad15)
+##  Technologies & Skills
 #### Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML
 #### Backend: Node.js, JavaScript, Java (Spring Boot), Postman
 #### Databases: MongoDB, PostgreSQL
@@ -19,7 +18,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 
 
 <br></br>
-## ![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya (2) - Kopya](https://github.com/user-attachments/assets/d064f2f6-d116-4c2d-a3fa-77122d4b25d7) Career Goals
+##  Career Goals
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
 <br></br>
 ## 🛠️ Projects & Experience
