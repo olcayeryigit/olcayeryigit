@@ -16,6 +16,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 #### Design Tools: Figma, Canva 
 
 ![skills](https://github.com/user-attachments/assets/82c0ab47-5c3b-44a1-9ec1-5ecf44146745)
+<br></br>
 
 ## ![3](https://github.com/user-attachments/assets/b88fa607-4e10-47f9-9efe-b6a7e6d10120)
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
