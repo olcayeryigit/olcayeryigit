@@ -3,7 +3,9 @@
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
 
-![olcay-eryigit-github](https://github.com/user-attachments/assets/ad41dfc7-eeab-4f6a-be69-3db6f6dfb020) ![Profil İstatistikleri(https://github-readme-stats.vercel.app/api?username=olcayeryigit)
+![olcay-eryigit-github](https://github.com/user-attachments/assets/ad41dfc7-eeab-4f6a-be69-3db6f6dfb020) 
+
+![Profil İstatistikleri(https://github-readme-stats.vercel.app/api?username=olcayeryigit)
 
 
 ![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=default) ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olcayeryigit&theme=default)
