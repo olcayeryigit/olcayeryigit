@@ -3,10 +3,10 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a)
 
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&count_private=true&border_radius=20&theme=default&card_width=300)](https://github-readme-stats.vercel.app/api?username=olcayeryigit)
-
-
 ![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=default&card_width=300&border_radius=20)
+ [![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&count_private=true&border_radius=20&theme=default&card_width=300)](https://github-readme-stats.vercel.app/api?username=olcayeryigit)
+
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olcayeryigit&theme=default)
 
