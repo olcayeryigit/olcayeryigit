@@ -32,8 +32,8 @@ You can contact me via:
 LinkedIn: https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
 Website/Portfolio: 
 
-![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=default&card_width=300&border_radius=30)
- [![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&count_private=true&border_radius=30&theme=default&card_width=300)](https://github-readme-stats.vercel.app/api?username=olcayeryigit)
+
+ [![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&count_private=true&border_radius=30&theme=default&card_width=300)](https://github-readme-stats.vercel.app/api?username=olcayeryigit) ![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=default&card_width=300&border_radius=30)
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olcayeryigit&theme=default)
