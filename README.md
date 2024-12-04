@@ -1,5 +1,5 @@
 
-# Hi, I'm Olcay. <span style="padding-left: 20px;">![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=green) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-yellow)</span> 
+# Hi, I'm Olcay. <span style="padding-left: 250px;">![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=green) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-yellow)</span> 
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
 
