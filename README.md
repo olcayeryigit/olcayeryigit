@@ -18,7 +18,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 
 
 <br></br>
-##  Career Goals
+## ![3](https://github.com/user-attachments/assets/117df62d-f478-4885-999c-e0c81ebf2bcb)
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
 <br></br>
 ## 🛠️ Projects & Experience
