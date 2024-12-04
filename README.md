@@ -19,7 +19,7 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 
 
 <br></br>
-## 🎯 Career Goals
+## ![Mavi Minimalist Mezuniyet Tebrik Kartı - Kopya (2) - Kopya](https://github.com/user-attachments/assets/d064f2f6-d116-4c2d-a3fa-77122d4b25d7) Career Goals
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
 <br></br>
 ## 🛠️ Projects & Experience
