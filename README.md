@@ -3,7 +3,7 @@
 
 
 
-# ![xx](https://github.com/user-attachments/assets/8934c2d2-1ac3-4466-9ead-5d54d708b288) Hi, I'm Olcay. &nbsp; ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
+# ![xx](https://github.com/user-attachments/assets/c1bbd279-69a6-4ae3-81d7-87039f04f534) Hi, I'm Olcay. &nbsp; ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=olcayeryigit&color=orange) ![Rozet](https://img.shields.io/badge/Yazılım-JavaScript-blue)
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 
 ![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
