@@ -15,19 +15,25 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 #### Mobile Development: React Native
 #### Design Tools: Figma, Canva 
 
+![skills](https://github.com/user-attachments/assets/82c0ab47-5c3b-44a1-9ec1-5ecf44146745)
 
-<br></br>
+## ![3](https://github.com/user-attachments/assets/b88fa607-4e10-47f9-9efe-b6a7e6d10120)
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. 
 <br></br>
-## ![3](https://github.com/user-attachments/assets/f52bb473-d7ce-4b39-ba37-7550ff16bffd)
+
+## ![4](https://github.com/user-attachments/assets/c60b2a61-d881-4068-90b1-50001733ca05)
 
 I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native. 
 <br></br>
-## 🌱 Currently Learning
+
+## ![5](https://github.com/user-attachments/assets/7e77592b-1c15-41af-8911-a718e89080db)
+
 Java Spring Boot: Diving deeper into backend development.
 New UI/UX design trends and more! 
 <br></br>
-## 📫 Contact
+
+## ![6](https://github.com/user-attachments/assets/5430bb4d-6549-4fcf-b57e-5b0356477599)
+
 Feel free to reach out if you'd like to know more about my projects and experience or collaborate! 
 <br></br>
 You can contact me via:
