@@ -14,9 +14,9 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 #### Backend: Node.js, JavaScript, Java (Spring Boot)
 #### Databases: MongoDB, PostgreSQL
 #### Mobile Development: React Native
-#### Design Tools: Figma, Canva
+#### Design Tools: Figma, Canva <br/>
 
-<br/>
+
 
 ## 🎯 Career Goals
 I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results. <br/>
