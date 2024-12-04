@@ -3,7 +3,7 @@
 # ![1](https://github.com/user-attachments/assets/b8866c72-e6fb-43f6-aed6-2fa27db7a93e)  
 
  
-## I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.
+#### I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.
 
 <br></br>
 
