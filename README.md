@@ -7,14 +7,23 @@ __I am a Frontend Developer and Full-Stack Developer passionate about creating w
 <br></br>
 
 ![2](https://github.com/user-attachments/assets/bf8a29f4-777f-4d86-90c3-023258b1ef24)
+<br/>
+<br/>
 __Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML__ 
 <br/>
 <br/>
 __Backend: Node.js, JavaScript, Java (Spring Boot), Postman__
-#### Databases: MongoDB, PostgreSQL
-#### Mobile Development: React Native
-#### Design Tools: Figma, Canva 
-
+<br/>
+<br/>
+__Databases: MongoDB, PostgreSQL__
+<br/>
+<br/>
+__Mobile Development: React Native__
+<br/>
+<br/>
+__Design Tools: Figma, Canva__
+<br/>
+<br/>
 
 ![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)
 <br></br>
