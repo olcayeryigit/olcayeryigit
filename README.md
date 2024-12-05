@@ -50,7 +50,7 @@ __Website/Portfolio:__
 
 <br></br>
 
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&count_private=true&border_radius=30&theme=default&card_width=300&card_height=500)](https://github-readme-stats.vercel.app/api?username=olcayeryigit) ![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=default&card_width=300&border_radius=30)
+[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=olcayeryigit&show_icons=true&count_private=true&border_radius=30&theme=default&card_width=300)](https://github-readme-stats.vercel.app/api?username=olcayeryigit) ![Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayeryigit&layout=compact&theme=default&card_width=300&border_radius=30)
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olcayeryigit&theme=default)
