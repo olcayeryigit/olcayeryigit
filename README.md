@@ -28,7 +28,7 @@ __Design Tools: Figma, Canva__
 ![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)
 <br></br>
 
-![3](https://github.com/user-attachments/assets/5e7e1d92-d9ae-41a8-91c7-62c51ba1f951)
+![3](https://github.com/user-attachments/assets/b7e130e3-d8d8-4805-bf68-314bf918002c)
 
 __I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results.__
 <br></br>
