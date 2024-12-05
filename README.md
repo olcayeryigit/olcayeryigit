@@ -5,7 +5,7 @@
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 <br></br>
 
-![2](https://github.com/user-attachments/assets/1a4507d3-9428-4cf0-997d-afdc84730fc0) 
+[![2](https://github.com/user-attachments/assets/1a4507d3-9428-4cf0-997d-afdc84730fc0)](https://github.com/olcayeryigit/olcayeryigit/blob/main/README.md)
 
 __Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML__ 
 <br/>
@@ -23,25 +23,25 @@ __Design Tools: Figma, Canva__
 <br/>
 <br/>
 
-![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)
+[![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)](https://github.com/olcayeryigit/olcayeryigit/blob/main/README.md)
 <br></br>
 
-![3](https://github.com/user-attachments/assets/b7e130e3-d8d8-4805-bf68-314bf918002c)
+[![3](https://github.com/user-attachments/assets/b7e130e3-d8d8-4805-bf68-314bf918002c)](https://github.com/olcayeryigit/olcayeryigit/blob/main/README.md)
 
 __I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results.__
 <br></br>
 
-![4](https://github.com/user-attachments/assets/9198c0d5-b038-4e12-9d21-a661cf6b9e27)
+[![4](https://github.com/user-attachments/assets/9198c0d5-b038-4e12-9d21-a661cf6b9e27)](https://github.com/olcayeryigit/olcayeryigit/blob/main/README.md)
 
 __I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native.__
 <br></br>
 
-![5](https://github.com/user-attachments/assets/1b0387fd-d22b-4ea0-b3c7-a966cc7a6395)
+[![5](https://github.com/user-attachments/assets/1b0387fd-d22b-4ea0-b3c7-a966cc7a6395)](https://github.com/olcayeryigit/olcayeryigit/blob/main/README.md)
 
 __New UI/UX design trends and more!__
 <br></br>
 
-![6](https://github.com/user-attachments/assets/326811eb-f626-4c5c-a3d0-791d2a475871)
+[![6](https://github.com/user-attachments/assets/326811eb-f626-4c5c-a3d0-791d2a475871)](https://github.com/olcayeryigit/olcayeryigit/blob/main/README.md)
 
 __Feel free to reach out if you'd like to know more about my projects and experience or collaborate!__
 
