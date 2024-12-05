@@ -43,9 +43,11 @@ __New UI/UX design trends and more!__
 ![6](https://github.com/user-attachments/assets/326811eb-f626-4c5c-a3d0-791d2a475871)
 
 __Feel free to reach out if you'd like to know more about my projects and experience or collaborate!__
+
 __You can contact me via:__
-__LinkedIn:__
+
 https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
+
 __Website/Portfolio:__
 
 <br></br>
