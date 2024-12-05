@@ -28,22 +28,22 @@ __Design Tools: Figma, Canva__
 ![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)
 <br></br>
 
-![3](https://github.com/user-attachments/assets/b88fa607-4e10-47f9-9efe-b6a7e6d10120)
+![3](https://github.com/user-attachments/assets/17ffc1e1-e8d8-498d-bf67-7fc6d85451f6)
 
 __I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results.__
 <br></br>
 
-![4](https://github.com/user-attachments/assets/c60b2a61-d881-4068-90b1-50001733ca05)
+![4](https://github.com/user-attachments/assets/deeb8027-fdbf-4d95-845f-85d49cb153d8)
 
 __I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native.__
 <br></br>
 
-![5](https://github.com/user-attachments/assets/7e77592b-1c15-41af-8911-a718e89080db)
+![5](https://github.com/user-attachments/assets/5a349a7d-e64f-48b7-8992-2fbc17f056fd)
 
 __New UI/UX design trends and more!__
 <br></br>
 
-![6](https://github.com/user-attachments/assets/5430bb4d-6549-4fcf-b57e-5b0356477599)
+![6](https://github.com/user-attachments/assets/42c52ca5-5bb5-49fb-9429-13918926efe1)
 
 __Feel free to reach out if you'd like to know more about my projects and experience or collaborate!__
 <br></br>
