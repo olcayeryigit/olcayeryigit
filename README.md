@@ -50,6 +50,7 @@ https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
 
 ![linkedin2](https://github.com/user-attachments/assets/41d12468-2acb-4d2c-b52e-9e496933fcbc)
 ![pngwing com](https://github.com/user-attachments/assets/b0d2cb27-22a7-4daf-bc28-419048c4756d)
+![pngwing com](https://github.com/user-attachments/assets/f9ab5302-53b5-4bca-9c36-ac37903323e4)
 
 
 __Website/Portfolio:__
