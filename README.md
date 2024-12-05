@@ -4,7 +4,7 @@
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 <br></br>
 
-### ![2](https://github.com/user-attachments/assets/1a4507d3-9428-4cf0-997d-afdc84730fc0) 
+# ![2](https://github.com/user-attachments/assets/1a4507d3-9428-4cf0-997d-afdc84730fc0) 
 __Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML__ 
 <br/>
 <br/>
