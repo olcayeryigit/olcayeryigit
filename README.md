@@ -49,7 +49,7 @@ __You can contact me via:__
 https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
 
 ![linkedin2](https://github.com/user-attachments/assets/41d12468-2acb-4d2c-b52e-9e496933fcbc)
-![pngwing com](https://github.com/user-attachments/assets/97cee6af-3c0b-4964-b571-0b48d3fae6c1)
+![pngwing com](https://github.com/user-attachments/assets/b0d2cb27-22a7-4daf-bc28-419048c4756d)
 
 
 __Website/Portfolio:__
