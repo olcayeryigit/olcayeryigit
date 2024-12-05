@@ -58,7 +58,6 @@ __Website/Portfolio:__
 
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=olcayeryigit&theme=gruvbox)
 
-![olcay-eryigit-github](https://github.com/user-attachments/assets/8fae4b6f-b265-44dc-b43d-953c1f8ebb9a) 
 
 
 
