@@ -29,10 +29,12 @@ __Design Tools: Figma, Canva__
 <br></br>
 
 ![3](https://github.com/user-attachments/assets/b88fa607-4e10-47f9-9efe-b6a7e6d10120)
+
 __I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results.__
 <br></br>
 
 ![4](https://github.com/user-attachments/assets/c60b2a61-d881-4068-90b1-50001733ca05)
+
 __I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native.__
 <br></br>
 
