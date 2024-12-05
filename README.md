@@ -39,10 +39,12 @@ __I have developed various applications across different industries using React,
 <br></br>
 
 ![5](https://github.com/user-attachments/assets/7e77592b-1c15-41af-8911-a718e89080db)
+
 __New UI/UX design trends and more!__
 <br></br>
 
 ![6](https://github.com/user-attachments/assets/5430bb4d-6549-4fcf-b57e-5b0356477599)
+
 __Feel free to reach out if you'd like to know more about my projects and experience or collaborate!__
 <br></br>
 __You can contact me via:__
