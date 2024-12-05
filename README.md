@@ -38,7 +38,7 @@ __I aim to continuously improve my skills in technology, applying best practices
 __I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native.__
 <br></br>
 
-![5](https://github.com/user-attachments/assets/fdd54405-3da2-4dae-b86c-68dad9965cc4)
+![5](https://github.com/user-attachments/assets/d6aa2381-a325-4ccc-9824-936c51cf5e6a)
 
 __New UI/UX design trends and more!__
 <br></br>
