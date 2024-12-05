@@ -6,7 +6,7 @@
 __I am a Frontend Developer and Full-Stack Developer passionate about creating web and mobile applications.My interest in technology drives me to constantly learn new tools and methods.__
 <br></br>
 
-![2](https://github.com/user-attachments/assets/f834febd-57ca-4184-bf18-2a7aa673eb53)
+![2](https://github.com/user-attachments/assets/69049d54-2705-4687-b5fa-442b98f0d3b6)
 <br/>
 <br/>
 __Frontend: React, Next.js, Tailwind CSS, Sass, Bootstrap, CSS, HTML__ 
@@ -28,22 +28,22 @@ __Design Tools: Figma, Canva__
 ![skills](https://github.com/user-attachments/assets/1b51f8d7-6edf-40e2-a3cf-bcfb947520ff)
 <br></br>
 
-![3](https://github.com/user-attachments/assets/17ffc1e1-e8d8-498d-bf67-7fc6d85451f6)
+![3](https://github.com/user-attachments/assets/5e7e1d92-d9ae-41a8-91c7-62c51ba1f951)
 
 __I aim to continuously improve my skills in technology, applying best practices to create modern web and mobile applications. In my projects, I focus on efficiency, speed, and user experience, always striving to achieve better results.__
 <br></br>
 
-![4](https://github.com/user-attachments/assets/deeb8027-fdbf-4d95-845f-85d49cb153d8)
+![4](https://github.com/user-attachments/assets/5af1f1c2-8337-4e00-b82e-f003a75c5622)
 
 __I have developed various applications across different industries using React, Next.js, and Node.js. I also have experience in database management and API integration. Additionally, I have worked on mobile applications using React Native.__
 <br></br>
 
-![5](https://github.com/user-attachments/assets/5a349a7d-e64f-48b7-8992-2fbc17f056fd)
+![5](https://github.com/user-attachments/assets/9e65b5dd-8d75-4b7d-b43a-e7ea8600e9b9)
 
 __New UI/UX design trends and more!__
 <br></br>
 
-![6](https://github.com/user-attachments/assets/42c52ca5-5bb5-49fb-9429-13918926efe1)
+![6](https://github.com/user-attachments/assets/7ea31da6-c85a-4972-8c5a-b4347fd24d02)
 
 __Feel free to reach out if you'd like to know more about my projects and experience or collaborate!__
 <br></br>
