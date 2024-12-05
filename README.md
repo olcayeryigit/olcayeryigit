@@ -48,8 +48,8 @@ __You can contact me via:__
 
 https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/
 
-![linkedin2](https://github.com/user-attachments/assets/67045d71-13c5-4136-acce-9fa052f86cc4)
-![linkedin](https://github.com/user-attachments/assets/1e336c9c-2cd8-4abe-85d8-b2495963b1d3)
+![linkedin2](https://github.com/user-attachments/assets/41d12468-2acb-4d2c-b52e-9e496933fcbc)
+
 
 __Website/Portfolio:__
 
