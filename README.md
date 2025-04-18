@@ -49,7 +49,7 @@ __You can contact me via:__
 
 [![olcay-eryigit-linkedin](https://github.com/user-attachments/assets/4c7335bd-3eb0-4050-ab62-93a3c6ebf683)](https://www.linkedin.com/in/olcay-eryi%C4%9Fit-oe1/)
 
-
+[![pngwing com](https://github.com/user-attachments/assets/7770a1cf-663b-4a61-82d8-edebadd8458c)](https://codepen.io/olcayeryigit)
 
 
 __Website/Portfolio:__ coming soon
