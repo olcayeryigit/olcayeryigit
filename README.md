@@ -16,7 +16,7 @@ __Backend: Node.js, JavaScript, Java (Spring Boot), Postman__
 __Databases: MongoDB, PostgreSQL__
 <br/>
 <br/>
-__Mobile Development: React Native__
+__Mobile Development: Flutter__
 <br/>
 <br/>
 __Design Tools: Figma, Canva__
